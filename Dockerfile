@@ -8,6 +8,7 @@ RUN \
 # install utilities
   apt-get install -y \
     wget \
+    git \
     sudo && \
   # install node.js
   wget https://nodejs.org/dist/v16.18.0/node-v16.18.0-linux-x64.tar.gz -O /tmp/node.tar.gz && \
