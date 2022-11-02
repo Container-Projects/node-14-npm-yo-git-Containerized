@@ -1,2 +1,3 @@
-# node-14-npm-yo-Containerized
-Containerized Node v14 with npm and yo
+# node-14-npm-yo-git-Containerized
+
+Containerized Node v14 with npm, yo and git
